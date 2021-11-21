@@ -1,0 +1,13 @@
+.nav-item{
+    list-style: none;
+}
+.para{
+    padding-right: 5rem;
+    text-align: justify;
+}
+.bg-footer{
+    background-color: #262339;
+}
+.icon{
+    color: white;
+}

@@ -1,0 +1,9 @@
+.banner{
+    background-image: url('https://i.ibb.co/2kqVLcv/banner1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    font-family: 'Ubuntu', sans-serif !important;
+    word-spacing: 10px;
+}
